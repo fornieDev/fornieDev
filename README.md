@@ -49,7 +49,7 @@ Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero
 
 Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/projects2).
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/fornieDev/fornieDev/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br><br><br>
 
