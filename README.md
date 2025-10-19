@@ -42,11 +42,11 @@ Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero
 ### 🚀 Proyectos destacados
 - [🌐 Portfolio Web](https://github.com/fornieDev/PortfolioWeb) – Portfolio web hecho con Astro
 - [🌐 Portfolio Web Backend](https://github.com/fornieDev/Portfolio-Backend-Node) – Backend del portfolio para enviar mails desde la web hecho en javascript
-- [🤕 My Physio](https://github.com/fornieDev/MyPhysio) – Primer módulo del ERP mobile hecho con Kotlin para mandar ejecicios de fisioterapia
+- [🤕 My Physio (repo privado)](https://github.com/fornieDev/MyPhysio) – Primer módulo del ERP mobile hecho con Kotlin para mandar ejecicios de fisioterapia
 - [🧪 Zoominoutron](https://github.com/fornieDev/Zoominotron) – Juego de PC de puzles y plataformas hecho en Unity
 - [🟦 Cube Clicker](https://github.com/fornieDev/CubeClickerRepository) – Juego mobile clicker hecho en Unity
 <br>
-- Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/) 
+- Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/projects2)
 
 
 <br>
