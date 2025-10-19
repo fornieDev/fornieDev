@@ -3,30 +3,53 @@
 <p align="center">
   💻 Software developer &nbsp;
   <img src="https://img.shields.io/badge/Años_picando-4-blue" alt="Years developing"/>
+  &nbsp;
+  ⛏️
 </p>
 
 Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero suficiente para desarrollarla. Por ello, decidí hacerla yo mismo. Empecé a estudiar en mis ratos libres, y cuando aprendí las bases gracias a [@ArisGuimera](https://github.com/ArisGuimera) y [@mouredev](https://github.com/mouredev), comencé a desarrollar mi idea y, tras unos meses, publiqué mi primera app en Play Store.En ese momento descubrí que me encantaba la programación,y comencé a estudiar DAM,y tras 2 años,en 2025,me convertí en desarrollador de software.
 
 ### 🛠️ Tecnologías y herramientas
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0095D5?logo=apache-netbeans&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+<br>
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+<br>
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firestore&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?logo=google-cloud&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?logo=oracle&logoColor=white)
+<br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white)
+<br>
+![Astro](https://img.shields.io/badge/Astro-0EA5E9?logo=astro&logoColor=white)
+
 
 <br>
 
 ### 🚀 Proyectos destacados
-- [🌐 Portfolio Web](https://github.com/ana-martinez/portfolio) – Sitio personal hecho con React y TailwindCSS  
-- [🤖 Chatbot con Python](https://github.com/ana-martinez/chatbot) – Bot basado en NLP con FastAPI
+- [🌐 Portfolio Web](https://github.com/fornieDev/PortfolioWeb) – Portfolio web hecho con Astro
+- [🌐 Portfolio Web Backend](https://github.com/fornieDev/Portfolio-Backend-Node) – Backend del portfolio para enviar mails desde la web hecho en javascript
+- [🤕 My Physio](https://github.com/fornieDev/MyPhysio) – Primer módulo del ERP mobile hecho con Kotlin para mandar ejecicios de fisioterapia
+- [🧪 Zoominoutron](https://github.com/fornieDev/Zoominotron) – Juego de PC de puzles y plataformas hecho en Unity
+- [🟦 Cube Clicker](https://github.com/fornieDev/CubeClickerRepository) – Juego mobile clicker hecho en Unity
+<br>
+- Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/) 
 
-### 📊 Mis estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-martinez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-martinez&layout=compact&theme=tokyonight)
 
-### 📫 Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnaMartinez-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-martinez/)
-[![Email](https://img.shields.io/badge/Email-ana@example.com-red?logo=gmail&logoColor=white)](mailto:ana@example.com)
+<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -58,47 +81,11 @@ Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+
 
 <br>
+
+### 📊 Mis estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-martinez&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-martinez&layout=compact&theme=tokyonight)
 
