@@ -76,6 +76,6 @@ Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio]
 <br>
 
 ### 📊 Mis estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-martinez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-martinez&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fornieDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fornieDev&layout=compact&theme=tokyonight)
 
