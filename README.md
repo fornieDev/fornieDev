@@ -36,7 +36,6 @@ Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero
 <br>
 ![Astro](https://img.shields.io/badge/Astro-0EA5E9?logo=astro&logoColor=white)
 
-
 <br>
 
 ### 🚀 Proyectos destacados
@@ -45,14 +44,12 @@ Cuando era fisioterapeuta tuve una idea de una app mobile, pero no tenía dinero
 - [🤕 My Physio (repo privado)](https://github.com/fornieDev/MyPhysio) – Primer módulo del ERP mobile hecho con Kotlin para mandar ejecicios de fisioterapia
 - [🧪 Zoominoutron](https://github.com/fornieDev/Zoominotron) – Juego de PC de puzles y plataformas hecho en Unity
 - [🟦 Cube Clicker](https://github.com/fornieDev/CubeClickerRepository) – Juego mobile clicker hecho en Unity
-<br>
-- Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/projects2)
 
+Todos estos proyectos puedes verlos desplegados o descargarlos en mi [portfolio](https://fornie-dev-portfolio.vercel.app/projects2).
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 
 - 🌱 I’m currently working on Sagatech Inc as trainee as fullstack software developer
 
